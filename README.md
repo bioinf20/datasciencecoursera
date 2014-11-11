@@ -1,4 +1,4 @@
-datasciencecoursera
+dsc
 ===================
 
-Data Scientists Toolbox @ JHU-Coursera
+DST @ JHUC
